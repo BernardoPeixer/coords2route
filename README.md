@@ -1,4 +1,4 @@
-# map-your-distance
+# cords2route
 
 Snap distances between points and get a Google Maps route instantly!
 
